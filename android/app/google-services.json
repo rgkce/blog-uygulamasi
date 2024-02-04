@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "775502867741",
+    "project_id": "bloguygfirebase",
+    "storage_bucket": "bloguygfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775502867741:android:42f85a4df29b3614f585f4",
+        "android_client_info": {
+          "package_name": "com.example.blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcVBaDdPpasfiRdhX9p6df9zNsDiWvek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775502867741:android:e8bdd78bc70b35a2f585f4",
+        "android_client_info": {
+          "package_name": "com.example.blog_uyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcVBaDdPpasfiRdhX9p6df9zNsDiWvek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775502867741:android:dd7a4ccca05c908df585f4",
+        "android_client_info": {
+          "package_name": "com.example.bloguyg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcVBaDdPpasfiRdhX9p6df9zNsDiWvek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775502867741:android:2d055e9d053337fff585f4",
+        "android_client_info": {
+          "package_name": "com.example.bloguyg_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcVBaDdPpasfiRdhX9p6df9zNsDiWvek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775502867741:android:8737ea76faa7712df585f4",
+        "android_client_info": {
+          "package_name": "com.example.bloguygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcVBaDdPpasfiRdhX9p6df9zNsDiWvek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
